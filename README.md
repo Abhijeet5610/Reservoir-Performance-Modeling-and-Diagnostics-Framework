@@ -1,7 +1,5 @@
 # Reservoir-Performance-Modeling-and-Diagnostics-Framework
 
-# Reservoir Performance Analysis using Material Balance, Nodal Analysis & Decline Curve Analysis
-
 A Python-based reservoir engineering project that integrates classical reservoir engineering techniques to estimate hydrocarbon reserves, identify dominant reservoir drive mechanisms, optimize production performance, and forecast future production. The workflow employs dynamic PVT calculations that continuously update fluid properties as reservoir pressure declines, enabling realistic reservoir performance analysis.
 
 ---
